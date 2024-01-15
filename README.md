@@ -1,6 +1,5 @@
-- 👋 Hi👋, I’m Mirza Sharjeel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Web Development 
+<h1 align="center">Hi 👋, I'm Mirza Sharjeel </h1>
+- 🌱 I’m currently learning Front-end Web Development 
 - 📫 How to reach me: mssharjeel304@gmail.com 
 
 

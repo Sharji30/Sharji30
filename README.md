@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mirza Sharjeel </h1>
 <h3 align="center">A young front end developer from Pakistan </h3
-                                                               
-- 🌱 I’m currently learning HTML5, CSS3, JS
+                                                               - 🌱 I’m currently learning HTML5, CSS3, JS
 
 - 📫 Reach me at: mssharjeel304@gmail.com
 

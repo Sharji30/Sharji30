@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mirza Sharjeel </h1>
 <h3 align="center">A young front end developer from Pakistan </h3
                                                                
-- 🌱 I’m currently learning HTML5, CSS3, JS
+ 🌱 I’m currently learning HTML5, CSS3, JS
 
-- 📫 Reach me at: mssharjeel304@gmail.com
+ 📫 Reach me at: mssharjeel304@gmail.com
 
-- <h3 align="left">Let's Connect:</h3>
+ <h3 align="left">Let's Connect:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/msharjeel~30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Sharjeel" height="30" width="40" /></a>
 <a href="https://instagram.com/hafiz_sharjeel30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Sharjeel" height="30" width="40" /></a>
